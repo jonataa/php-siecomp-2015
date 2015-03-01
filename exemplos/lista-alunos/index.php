@@ -5,8 +5,8 @@
  * $ php -S localhost:8000 -t lista-alunos/index.php
  */
 
-$file   = file_get_contents('db/data.json');
-$data   = json_decode($file);
+$file = file_get_contents('db/data.json');
+$data = json_decode($file);
 
 $routes['/meus-alunos'] = function() use ($data) { 
   $alunos = $data->alunos; 
