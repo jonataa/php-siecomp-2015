@@ -2,7 +2,7 @@
 
 ## Preparando o Ambiente
 
-Você deve instalar o PHP a partir da versão ```5.4```, mas dê preferência a última versão estável. Siga as instruções desse [link](http://br.phptherightway.com/#comecando) para realizar a instalação de acordo seu sistema operacional.
+Primeiro, você deve instalar o PHP a partir da versão ```5.4```, mas dê preferência a última versão estável. Siga as instruções desse [link](http://br.phptherightway.com/#comecando) para realizar a instalação de acordo seu sistema operacional.
 
 Para checar se instalou corretamente, digite no console/terminal e veja a versão instalada em ```PHP 5.x.x```.
 
