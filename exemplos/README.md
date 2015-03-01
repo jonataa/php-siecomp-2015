@@ -10,7 +10,7 @@ Para checar se instalou corretamente, digite no console/terminal e veja a versã
 $ php -v
 ```
 
-Se você recebou uma mensagem parecida com isso,
+Se você vê uma mensagem parecida com isso,
 
 ```shell
 PHP 5.6.4 (cli) (built: Dec 24 2014 12:05:33) 
@@ -22,7 +22,7 @@ Zend Engine v2.6.0, Copyright (c) 1998-2014 Zend Technologies
 
 então parabéns, seu ```PHP``` foi instalado com sucesso!
 
-Agora, você só precisa de um editor de texto para construir seus códigos. Veja algumas sugestões:
+Agora, só precisa de um editor de texto para construir seus códigos. Veja algumas sugestões:
 
 * [SublimeText](http://www.sublimetext.com/)
 * [PHPStorm](https://www.jetbrains.com/phpstorm/)
