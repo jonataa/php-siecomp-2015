@@ -21,6 +21,14 @@ Após instalar as dependências, abra o terminal e digite:
 ```shell
 $ cd TDD/
 $ php vendor/bin/phpunit --bootstrap=vendor/autoload.php tests
+
+PHPUnit 4.5.0 by Sebastian Bergmann and contributors.
+
+...
+
+Time: 41 ms, Memory: 3.00Mb
+
+OK (3 tests, 18 assertions)
 ```
 
 ## Instalando o Composer (opcional)
