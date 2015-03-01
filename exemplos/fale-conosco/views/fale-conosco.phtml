@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title><?= $title ?></title>
+</head>
+<body>
+  
+  <h1><?= $title ?></h1>
+  <form action="<?= $action ?>" method="<?= $method ?>">
+    <div>
+      <label for="seu-nome">Seu Nome</label>
+      <input type="text" name="seu-nome" id="seu-nome">
+    </div>
+    <div>
+      <label for="seu-email">Seu E-mail</label>
+      <input type="text" name="seu-email" id="seu-email">
+    </div>
+    <div>
+      <label for="seu-comentario">Seu Comentário</label>
+      <textarea name="seu-comentario" id="seu-comentario"></textarea>
+    </div>
+    <input type="submit" value="Enviar">
+  </form>
+
+</body>
+</html>
