@@ -1,7 +1,7 @@
 # PHP: Começando do jeito certo!
 Mini-curso de 8h realizado durante a SIECOMP 2015 no laboratório da Universidade Estadual de Feira de Santana/Bahia.
 
-* Slides (em breve)
+* [Slides](https://speakerdeck.com/jonataa/php-comecando-do-jeito-certo)
 * [Exercícios realizados em sala](https://github.com/jonataa/php-siecomp-2015/tree/master/exemplos)
 
 Se você não tem conhecimentos em ```git``` e/ou ```github```, então sugiro que dê uma olhada nesses links:
