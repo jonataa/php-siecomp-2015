@@ -11,6 +11,15 @@ Se você não tem conhecimentos em ```git``` e/ou ```github```, então sugiro qu
 * [Git - Guia Prático](http://rogerdudler.github.io/git-guide/index.pt_BR.html)
 * [Como usar o git e o github](http://codexico.com.br/blog/linux/tutorial-simples-como-usar-o-git-e-o-github/)
 
+## Links importantes
+
+* [Site Oficial do PHP](http://php.net/)
+* [PHP The Right Way](http://www.phptherightway.com/)
+* [PHP-FIG](http://www.php-fig.org/)
+* [Composer](https://getcomposer.org/) 
+* [Packagist](https://packagist.org/)
+* [Awesome PHP](https://github.com/ziadoz/awesome-php)
+
 ## Alunos
 
 Em breve...
